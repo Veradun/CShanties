@@ -1,0 +1,14 @@
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\Shellcode_Injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\Shellcode_Injector.AssemblyInfoInputs.cache
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\Shellcode_Injector.AssemblyInfo.cs
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\Shellcode_Injector.csproj.CoreCompileInputs.cache
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\bin\x64\Debug\net6.0\Shellcode_Injector.exe
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\bin\x64\Debug\net6.0\Shellcode_Injector.deps.json
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\bin\x64\Debug\net6.0\Shellcode_Injector.runtimeconfig.json
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\bin\x64\Debug\net6.0\Shellcode_Injector.dll
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\bin\x64\Debug\net6.0\Shellcode_Injector.pdb
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\Shellcode_Injector.dll
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\refint\Shellcode_Injector.dll
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\Shellcode_Injector.pdb
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\Shellcode_Injector.genruntimeconfig.cache
+C:\Users\Veradun\Desktop\CRTL\Shellcode_Injector\obj\x64\Debug\net6.0\ref\Shellcode_Injector.dll
